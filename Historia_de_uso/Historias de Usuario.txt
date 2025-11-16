@@ -1,0 +1,6 @@
+4. Historias de Usuario
+1.Como estudiante, quiero registrarme con mi correo institucional para acceder a la plataforma.
+2.Como usuario, quiero iniciar sesión para acceder a mis grupos y preguntas.
+3.Como estudiante, quiero publicar preguntas para recibir ayuda.
+4.Como usuario, quiero unirme a grupos de estudio para colaborar.
+5.Como monitor, quiero ofrecer sesiones de apoyo para estudiantes que lo necesiten.
